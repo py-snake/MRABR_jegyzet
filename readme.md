@@ -1,8 +1,5 @@
 # Magas rendelkezésre állású beágyazott rendszerek
 
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-
 ## 📋 Tárgy adatok
 
 - **Tárgy neve:** Magas rendelkezésre állású beágyazott rendszerek
