@@ -1,4 +1,4 @@
-# Magas rendelkezésre állású beágyazott rendszerek
+# Magas rendelkezésre állású beágyazott rendszerek jegyzet
 
 ## 📋 Tárgy adatok
 
@@ -13,5 +13,3 @@ Ez a repository **LaTeX-ben írt jegyzetet** tartalmaz a Magas rendelkezésre á
 ### 📁 Fájlok
 
 - **Jegyzet PDF:** [`/pdf/Magas rendelkezésreállású beágyazott rendszerek.pdf`](https://github.com/py-snake/MRABR_jegyzet/blob/main/pdf/Magas%20rendelkez%C3%A9sre%C3%A1ll%C3%A1s%C3%BA%20be%C3%A1gyazott%20rendszerek.pdf)
-
----
